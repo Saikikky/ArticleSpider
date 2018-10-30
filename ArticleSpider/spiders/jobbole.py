@@ -119,5 +119,5 @@ class JobboleSpider(scrapy.Spider):
 
         yield article_item # 将item传递到pipelines中去
 
-
+##用于测试git
 
